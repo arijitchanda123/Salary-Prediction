@@ -243,3 +243,4 @@ with st.expander("Utilities"):
         st.session_state.active_model_name = None
         st.session_state.latest_eval_df = None
         st.rerun()
+st.title("check Salary Prediction betweem two models")
